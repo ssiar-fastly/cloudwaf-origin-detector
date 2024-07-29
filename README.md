@@ -58,6 +58,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@sinasiar](https://x.com/sinasiar) - ssiar@fastly.com
+Sina Siar - [@ssiar](https://linkedin.com/in/ssiar) - ssiar@fastly.com
 
 Project Link: [https://github.com/ssiar-fastly/cloudwaf-origin-detector](https://github.com/ssiar-fastly/cloudwaf-origin-detector)
